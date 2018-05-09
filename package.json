@@ -1,0 +1,17 @@
+{
+  "name": "npm_twitterbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shay Manzaly",
+  "license": "ISC",
+  "dependencies": {
+    "gify-parse": "^1.0.7",
+    "jquery": "^3.3.1",
+    "twit": "^2.2.9"
+  },
+  "devDependencies": {}
+}
